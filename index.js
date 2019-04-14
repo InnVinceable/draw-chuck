@@ -1,7 +1,7 @@
 var fs = require('fs');
 
 function printChuck() {
-    var readStream = fs.createReadStream('./chuck.txt');
+    var readStream = fs.createReadStream('./node_modules/draw-chuck/chuck.txt');
     readStream.pipe(process.stdout);
 }
 
