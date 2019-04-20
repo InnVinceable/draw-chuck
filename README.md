@@ -3,7 +3,7 @@ Draw Chuck in ASCII art
 
 ## Installation
 ```
-npm i chuck-norris
+npm i draw-chuck
 ```
 
 
